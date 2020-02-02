@@ -4,7 +4,7 @@
     <property name="created">2020-02-02T14:51:44</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.2.0.0</property>
-    <property name="modified">2020-02-02T23:41:52</property>
+    <property name="modified">2020-02-03T00:03:06</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <console-font>
@@ -486,6 +486,17 @@
     <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
     <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="9e9e7a" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="8888c6" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="bbb529" />
@@ -495,8 +506,26 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="e89c52" />
+        <option name="FOREGROUND" value="b97e5f" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="dbdbaa" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="85d48d" />
+      </value>
+    </option>
+    <option name="PY.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="ea2f0e" />
+        <option name="EFFECT_COLOR" value="f44747" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.KEYWORD">
@@ -507,7 +536,19 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="ff81ae" />
+        <option name="FOREGROUND" value="ea76a0" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="9da59a" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="c17328" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.PARENTHS">
@@ -516,22 +557,24 @@
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="dcd08a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
-        <option name="FOREGROUND" value="eb58e4" />
+        <option name="FOREGROUND" value="d851d2" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f5dafe" />
+        <option name="FOREGROUND" value="b19db7" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.STRING.U">
       <value>
-        <option name="FOREGROUND" value="8d8eff" />
+        <option name="FOREGROUND" value="9697d3" />
       </value>
     </option>
     <option name="REGEXP.CHAR_CLASS">
