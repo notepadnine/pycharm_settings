@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="Indexing" />
+    <notification groupId="Kite" displayType="STICKY_BALLOON" />
+  </component>
+</application>

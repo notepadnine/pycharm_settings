@@ -1,0 +1,12 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="ics" />
+      </component>
+      <component name="TerminalProjectOptionsProvider">
+        <option name="myStartingDirectory" value="D:\Project" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
