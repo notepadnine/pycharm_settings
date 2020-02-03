@@ -1,0 +1,8 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="CopyElement" />
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+</keymap>
